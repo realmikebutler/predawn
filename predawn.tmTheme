@@ -28,7 +28,7 @@ COLOR KEY
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Predawn</string>
+	<string>My Predawn</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -47,7 +47,7 @@ COLOR KEY
 				<string>#F18260</string>
 
 				<key>lineHighlight</key>
-				<string>#252525</string>
+				<string>#1e3433</string>
 
 				<key>selection</key>
 				<string>#4C4C4C</string>
